@@ -16,8 +16,5 @@ By utilizing my skills and knowledge in Node.js, Express, MongoDB, SQL, JavaScri
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=saurav-commits&icon=0&color=0)](https://visitcount.itsvg.in)
