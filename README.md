@@ -1,5 +1,5 @@
 # 💫About Me :
-By utilizing my skills and knowledge in Node.js, Express, MongoDB, SQL, JavaScript, and Java, I am able to deliver top-notch web applications that meet the requirements of clients and end-users. My GitHub repositories showcase my projects and highlight my expertise in developing scalable and efficient solutions.
+By utilizing my skills and knowledge in Node.js, Express, MongoDB, SQL, PostgreSQL JavaScript, and its frameworks like React and Vue.js, I am able to deliver top-notch web applications that meet the requirements of clients and end-users. My GitHub repositories showcase my projects and highlight my expertise in developing scalable and efficient solutions.
 
 
 
